@@ -1,7 +1,26 @@
 .titulo
 {
 
-  margin-left: 43%;
+  margin-left: 33%;
   font-size: 50px;
 
+}
+
+.header
+{
+
+  background-color: dodgerblue;
+  padding: 3%;
+  color: antiquewhite;
+  font-family: helvetica;
+
+}
+
+.restodosite
+{
+
+  font-family: helvetica;
+  padding-top: 6%;  
+  background-color: ghostwhite;
+  
 }
