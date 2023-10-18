@@ -28,13 +28,15 @@
 .subtitulo
 {
 
-font-size: 173%;
+ font-size: 173%;
 
 }
 
 .conteudo
 {
 
-font-size: 148%;
+ font-size: 148%;
+ width: 32%;
+ margin-left: 34%;
   
 }
